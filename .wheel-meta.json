@@ -1,0 +1,22 @@
+{
+  "wheel_id": 674,
+  "structure": "umbrella",
+  "slug": "homeloanbrokernearme-com-151",
+  "project": "home-loan-brokers-brisbane-questions-to-ask-f9512bc3a9cdc975cad",
+  "parent_t1_ref": "homeloanbrokernearme.com-007",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokernearme.com.au",
+  "primary_kw": "home loan brokers brisbane questions to ask",
+  "intended_url": "https://aumedia.neocities.org/home-loan-brokers-brisbane-questions-to-ask-f9512bc3a9cdc975cad/",
+  "tier": "T2",
+  "writeback_nonce": "0882635f3cb6f3f4",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/homeloanbrokernearme.com-007/home-loan-brokers-brisbane.html",
+      "anchor": "this home loan brokers brisbane resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
